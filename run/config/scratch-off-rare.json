@@ -1,0 +1,38 @@
+{
+  "prizes": [
+    {
+      "itemId": "minecraft:diamond",
+      "nameKey": "prize.scratch-off.rare.diamond",
+      "color": "FF55FFFF",
+      "weight": 1,
+      "isLose": false,
+      "command": "give %player% minecraft:diamond 3",
+      "consolationCommand": "give %player% minecraft:diamond 1"
+    },
+    {
+      "itemId": "minecraft:gold_ingot",
+      "nameKey": "prize.scratch-off.rare.gold",
+      "color": "FFFFAA00",
+      "weight": 2,
+      "isLose": false,
+      "command": "give %player% minecraft:gold_ingot 8",
+      "consolationCommand": "give %player% minecraft:gold_nugget 4"
+    },
+    {
+      "itemId": "minecraft:lapis_lazuli",
+      "nameKey": "prize.scratch-off.rare.lapis",
+      "color": "FF3355FF",
+      "weight": 3,
+      "isLose": false,
+      "command": "give %player% minecraft:lapis_lazuli 12",
+      "consolationCommand": "give %player% minecraft:lapis_lazuli 3"
+    },
+    {
+      "itemId": "minecraft:skeleton_skull",
+      "nameKey": "prize.scratch-off.lose",
+      "color": "FF884444",
+      "weight": 4,
+      "isLose": true
+    }
+  ]
+}

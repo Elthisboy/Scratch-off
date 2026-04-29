@@ -1,0 +1,42 @@
+{
+  "item.scratch-off.scratch_ticket_common": "Ticket Común",
+  "item.scratch-off.scratch_ticket_rare":   "Ticket Raro",
+  "item.scratch-off.scratch_ticket_epic":   "Ticket Épico",
+
+  "screen.scratch-off.ticket":       "¡Raspa y Gana!",
+
+  "screen.scratch-off.title.common": "✦  TICKET  COMÚN  ✦",
+  "screen.scratch-off.title.rare":   "★  TICKET  RARO  ★",
+  "screen.scratch-off.title.epic":   "✦★  TICKET  ÉPICO  ★✦",
+
+  "screen.scratch-off.subtitle":     "Raspa los 3 sellos para descubrir tu premio",
+  "screen.scratch-off.instruction":  "[ Click / Arrastra para raspar ]",
+
+  "panel.scratch-off.revealed":      "✔ Revelado",
+  "panel.scratch-off.scratch":       "▶ ¡Raspa!",
+  "panel.scratch-off.touch":         "Toca aquí",
+  "panel.scratch-off.label":         "RASPA",
+
+  "screen.scratch-off.progress":     "Paneles revelados: %s / %s",
+  "screen.scratch-off.used":         "Ticket usado — clic derecho o ESC para cerrar",
+  "screen.scratch-off.close_hint":   "[ ESC para cerrar ]",
+  "screen.scratch-off.close_hint_done": "[ Clic derecho / ESC para cerrar ]",
+
+  "result.scratch-off.win":          "🎉 ¡GANASTE!  ¡Triple %s!",
+  "result.scratch-off.consolation":  "✨ ¡2 iguales!  ¡Premio menor de %s!",
+  "result.scratch-off.lose":         "Sin suerte... ¡Inténtalo de nuevo!",
+
+  "prize.scratch-off.common.iron":       "Hierro",
+  "prize.scratch-off.common.bread":      "Pan",
+  "prize.scratch-off.common.coal":       "Carbón",
+
+  "prize.scratch-off.rare.diamond":      "Diamante",
+  "prize.scratch-off.rare.gold":         "Oro",
+  "prize.scratch-off.rare.lapis":        "Lapislázuli",
+
+  "prize.scratch-off.epic.netherite":    "Netherita",
+  "prize.scratch-off.epic.emerald":      "Esmeralda",
+  "prize.scratch-off.epic.elytra":       "Élitros",
+
+  "prize.scratch-off.lose":             "Sin suerte"
+}

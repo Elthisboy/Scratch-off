@@ -1,0 +1,23 @@
+/give @s scratch-off:scratch_ticket
+/time set day
+/weather clear
+/time set day
+/give @s scratch-off:scratch_ticket
+/weather clear
+/time set day
+/give @s scratch-off:scratch_ticket
+/give @s scratch-off:scratch_ticket 15
+/give @s scratch-off:scratch_ticket 16
+/give @s scratch-off:scratch_ticket
+/time set day
+/give @s scratch-off:scratch_ticket 64
+/give @s scratch-off:scratch_ticket_common
+/give @s scratch-off:scratch_ticket_epic
+/give @s scratch-off:scratch_ticket_rare
+/give @s scratch-off:scratch_ticket_common
+/give @s scratch-off:scratch_ticket_rare
+/give @s scratch-off:scratch_ticket_epic
+/time set day
+/give @s scratch-off:scratch_ticket_common
+/give @s scratch-off:scratch_ticket_rare
+/give @s scratch-off:scratch_ticket_epic

@@ -1,0 +1,38 @@
+{
+  "prizes": [
+    {
+      "itemId": "minecraft:iron_ingot",
+      "nameKey": "prize.scratch-off.common.iron",
+      "color": "FFDDDDDD",
+      "weight": 1,
+      "isLose": false,
+      "command": "give %player% minecraft:iron_ingot 8",
+      "consolationCommand": "give %player% minecraft:iron_ingot 2"
+    },
+    {
+      "itemId": "minecraft:bread",
+      "nameKey": "prize.scratch-off.common.bread",
+      "color": "FFCC9944",
+      "weight": 2,
+      "isLose": false,
+      "command": "give %player% minecraft:bread 12",
+      "consolationCommand": "give %player% minecraft:bread 4"
+    },
+    {
+      "itemId": "minecraft:coal",
+      "nameKey": "prize.scratch-off.common.coal",
+      "color": "FF555555",
+      "weight": 3,
+      "isLose": false,
+      "command": "give %player% minecraft:coal 16",
+      "consolationCommand": "give %player% minecraft:coal 4"
+    },
+    {
+      "itemId": "minecraft:skeleton_skull",
+      "nameKey": "prize.scratch-off.lose",
+      "color": "FF884444",
+      "weight": 4,
+      "isLose": true
+    }
+  ]
+}

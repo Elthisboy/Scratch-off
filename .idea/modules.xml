@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scratch-off.client.iml" filepath="$PROJECT_DIR$/.idea/modules/Scratch-off.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scratch-off.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Scratch-off.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scratch-off.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Scratch-off.test.iml" />
+    </modules>
+  </component>
+</project>

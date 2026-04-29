@@ -1,0 +1,42 @@
+{
+  "item.scratch-off.scratch_ticket_common": "Common Ticket",
+  "item.scratch-off.scratch_ticket_rare":   "Rare Ticket",
+  "item.scratch-off.scratch_ticket_epic":   "Epic Ticket",
+
+  "screen.scratch-off.ticket":       "Scratch & Win!",
+
+  "screen.scratch-off.title.common": "✦  COMMON  TICKET  ✦",
+  "screen.scratch-off.title.rare":   "★  RARE  TICKET  ★",
+  "screen.scratch-off.title.epic":   "✦★  EPIC  TICKET  ★✦",
+
+  "screen.scratch-off.subtitle":     "Scratch all 3 panels to reveal your prize",
+  "screen.scratch-off.instruction":  "[ Click / Drag to scratch ]",
+
+  "panel.scratch-off.revealed":      "✔ Revealed",
+  "panel.scratch-off.scratch":       "▶ Scratch!",
+  "panel.scratch-off.touch":         "Touch here",
+  "panel.scratch-off.label":         "SCRATCH",
+
+  "screen.scratch-off.progress":     "Panels revealed: %s / %s",
+  "screen.scratch-off.used":         "Ticket used — right-click or ESC to close",
+  "screen.scratch-off.close_hint":   "[ ESC to close ]",
+  "screen.scratch-off.close_hint_done": "[ Right-click / ESC to close ]",
+
+  "result.scratch-off.win":          "🎉 YOU WON!  Triple %s!",
+  "result.scratch-off.consolation":  "✨ 2x Match!  Small %s prize!",
+  "result.scratch-off.lose":         "No luck... Try again!",
+
+  "prize.scratch-off.common.iron":       "Iron",
+  "prize.scratch-off.common.bread":      "Bread",
+  "prize.scratch-off.common.coal":       "Coal",
+
+  "prize.scratch-off.rare.diamond":      "Diamond",
+  "prize.scratch-off.rare.gold":         "Gold",
+  "prize.scratch-off.rare.lapis":        "Lapis Lazuli",
+
+  "prize.scratch-off.epic.netherite":    "Netherite",
+  "prize.scratch-off.epic.emerald":      "Emerald",
+  "prize.scratch-off.epic.elytra":       "Elytra",
+
+  "prize.scratch-off.lose":             "No luck"
+}

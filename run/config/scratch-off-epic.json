@@ -1,0 +1,38 @@
+{
+  "prizes": [
+    {
+      "itemId": "minecraft:netherite_ingot",
+      "nameKey": "prize.scratch-off.epic.netherite",
+      "color": "FFAA44AA",
+      "weight": 1,
+      "isLose": false,
+      "command": "give %player% minecraft:netherite_ingot 2",
+      "consolationCommand": "give %player% minecraft:netherite_scrap 1"
+    },
+    {
+      "itemId": "minecraft:emerald",
+      "nameKey": "prize.scratch-off.epic.emerald",
+      "color": "FF00FF77",
+      "weight": 2,
+      "isLose": false,
+      "command": "give %player% minecraft:emerald 10",
+      "consolationCommand": "give %player% minecraft:emerald 2"
+    },
+    {
+      "itemId": "minecraft:elytra",
+      "nameKey": "prize.scratch-off.epic.elytra",
+      "color": "FFFF8800",
+      "weight": 3,
+      "isLose": false,
+      "command": "give %player% minecraft:elytra 1",
+      "consolationCommand": "give %player% minecraft:phantom_membrane 4"
+    },
+    {
+      "itemId": "minecraft:skeleton_skull",
+      "nameKey": "prize.scratch-off.lose",
+      "color": "FF884444",
+      "weight": 5,
+      "isLose": true
+    }
+  ]
+}
