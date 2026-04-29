@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** Scratch-off
 - **Mod ID:** `scratch-off`
-- **Version:** `1.0.1` (Resolved at build time)
+- **Version:** `1.0.1`
 
 ## Technical Summary
 The **Scratch-off** mod introduces a lottery-style scratch ticket mechanic to Fabric. It registers three functional items into the `TOOLS` creative tab corresponding to different rarities (Common, Rare, Epic). The core logic relies on a weighted Random Number Generator (RNG) paired with distinct JSON configuration files for each tier. When a player interacts with a ticket, the mod calculates the outcome securely on the server and directly executes configured server commands (e.g., `/give`) to distribute rewards, supporting both primary jackpots and secondary consolation prizes.
